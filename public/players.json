@@ -1,0 +1,102 @@
+[
+  {
+      "playerId": 1,
+      "name": "Zephyron Blaze",
+      "country": "India",
+      "image": "https://iili.io/2frWEx4.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 250000
+  },
+  {
+      "playerId": 2,
+      "name": "Talon Voss",
+      "country": "England",
+      "image": "https://iili.io/2frWGWl.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 200000
+  },
+  {
+      "playerId": 3,
+      "name": "Orion Skye",
+      "country": "New Zealand",
+      "image": "https://iili.io/2frWlOG.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 180000
+  },
+  {
+      "playerId": 4,
+      "name": "Kael Drayton",
+      "country": "India",
+      "image": "https://iili.io/2frW0bf.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 220000
+  },
+  {
+      "playerId": 5,
+      "name": "Thorne Ash",
+      "country": "Australia",
+      "image": "https://iili.io/2frWMs2.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 210000
+  },
+  {
+      "playerId": 6,
+      "name": "Axel Creed",
+      "country": "Afghanistan",
+      "image": "https://iili.io/2frWWfS.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 190000
+  },
+  {
+      "playerId": 7,
+      "name": "Vexon Storm",
+      "country": "Australia",
+      "image": "https://iili.io/2frWX07.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 175000
+  },
+  {
+      "playerId": 8,
+      "name": "Nero Valor",
+      "country": "South Africa",
+      "image": "https://iili.io/2frWGWl.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 240000
+  },
+  {
+      "playerId": 9,
+      "name": "Lyric Rune",
+      "country": "West Indies",
+      "image": "https://iili.io/2frWEx4.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 210000
+  },
+  {
+      "playerId": 10,
+      "name": "Zarek Steel",
+      "country": "Pakistan",
+      "image": "https://iili.io/2frWMs2.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 160000
+  }
+]
